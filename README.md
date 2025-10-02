@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hii, I'm <b>Parmeshvar Lal</b></h1>
+<h1 align="center">👋 Hii, I'm <b>Parmeshvar </b></h1>
 <p align="center">
   <i>Full Stack Developer • Data Science Enthusias • Problem Solver</i>
 </p>
