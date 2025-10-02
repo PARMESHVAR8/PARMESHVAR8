@@ -1,7 +1,7 @@
- Profile Header 
-<h1 align="center">👋 नमस्ते, I'm <b>Parmeshvar Lal</b></h1>
+
+<h1 align="center">👋 Hii, I'm <b>Parmeshvar Lal</b></h1>
 <p align="center">
-  <i>Full Stack Developer • Data Science Enthusiast • Problem Solver</i>
+  <i>Full Stack Developer • Data Science Enthusias • Problem Solver</i>
 </p>
 
 <p align="center">
@@ -22,9 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PARMESHVAR8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -109,5 +106,4 @@
 If you have exciting ideas in web apps, data tooling, or real-time systems, let’s connect!  
 📧 <a href="mailto:parmeshvar0007@gmail.com">parmeshvar0007@gmail.com</a>
 
- Footer 
-<p align="center">Thanks for visiting! ⭐ Consider starring repositories you like.</p>
+
