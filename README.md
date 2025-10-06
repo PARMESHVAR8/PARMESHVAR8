@@ -96,9 +96,9 @@
   <img alt="Streak" height="190" src="https://streak-stats.demolab.com?user=PARMESHVAR8&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PARMESHVAR8&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+</p> -->
 
 ---
 
