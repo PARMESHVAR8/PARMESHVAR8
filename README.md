@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hii, I'm <b>Parmeshvar </b></h1>
+<h1 align="center"> Hii, I'm <b>Parmeshvar </b></h1>
 <p align="center">
   <i>Full Stack Developer • Data Science Enthusiast • Problem Solver</i>
 </p>
@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/u/Parmeshvar_lal/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://teamsmmg.work/">
+  <a href="https://teamsmmg.online/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-teamsmmg.work-16a34a?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
@@ -25,16 +25,16 @@
 
 ---
 
-### 🎓 About Me
-- 📚 Pursuing: <b>Integrated M.Sc. Chemistry @ SVNIT Surat</b> and <b>B.S. Data Science @ IIT Madras</b>  
-- 🌱 Learning: <b>MERN Stack</b>, <b>Cloud Deployment</b>, and <b>Scalable App Development</b>  
-- 💬 Ask me about: <b>Node.js, React, Flask, MongoDB, Redis, SQL, Data Structures</b>  
-- 📫 Reach me: <a href="mailto:parmeshvar0007@gmail.com">parmeshvar0007@gmail.com</a>  
+###  About Me
+-  Pursuing: <b>Integrated M.Sc. Chemistry @ SVNIT Surat</b> and <b>B.S. Data Science @ IIT Madras</b>  
+-  Learning: <b>MERN Stack</b>, <b>Cloud Deployment</b>, and <b>Scalable App Development</b>  
+-  Ask me about: <b>Node.js, React, Flask, MongoDB, Redis, SQL, Data Structures</b>  
+-  Reach me: <a href="mailto:parmeshvar0007@gmail.com">parmeshvar0007@gmail.com</a>  
 
 ---
 
 ### 🌐 Social & Work
-- 🔗 <a href="https://www.linkedin.com/in/parmeshvar8/">LinkedIn</a> • <a href="https://github.com/PARMESHVAR8">GitHub</a> • <a href="https://teamsmmg.work/">Portfolio</a> • <a href="https://leetcode.com/u/Parmeshvar_lal/">LeetCode</a> • <a href="https://parmeshvar8.github.io/ebook_1/">Ebook Project</a>
+- 🔗 <a href="https://www.linkedin.com/in/parmeshvar8/">LinkedIn</a> • <a href="https://github.com/PARMESHVAR8">GitHub</a> • <a href="https://teamsmmg.online/">Portfolio</a> • <a href="https://leetcode.com/u/Parmeshvar_lal/">LeetCode</a> • <a href="https://parmeshvar8.github.io/ebook_1/">Ebook Project</a>
 
 ---
 
@@ -72,21 +72,24 @@
 
 ---
 
-### 🚀 Featured Projects
-- <b><a href="https://teamsmmg.work/">TeamsMMG</a></b> — Full-service digital growth agency (Web, Mobile, UI/UX, SEO).  
-- <b><a href="https://github.com/PARMESHVAR8/parking_app">Parking Application</a></b> — Secure role-based app using Flask, Redis, SQLite, JWT.  
-- <b><a href="https://strangers-app.vercel.app/">Stranger Application</a></b> — Real-time chat with skip & instant-connect features.  
+### Featured Projects
+- <b><a href="https://teamsmmg.online/">TeamsMMG</a></b> — Full-service digital growth agency (Web, Mobile, UI/UX, SEO).  
+- <b><a href="https://parkingapplication.vercel.app/">Parking Application</a></b> — Secure role-based app using Flask, Redis, SQLite, JWT.  
+- <b><a href="https://strangers-app.vercel.app/">Stranger Application</a></b> — Real-time chat with skip & instant-connect features.
+- <b><a href="https://quizapplication-sage.vercel.app/">Online Quiz Application</a></b> — Real-time quiz application for the students.
+- <b><a href="https://3dwebsite-g3olhhb0z-parmeshvarbugaliya86-gmailcoms-projects.vercel.app/">3D Website</a></b> — Make 3D website for knowledge.
+- <b><a href="https://qr-code-brown-theta.vercel.app/">QR Code Generator</a></b> — Past any Link and generate QR
 
 ---
 
-### 🏆 Leadership & Achievements
-- Co-Founder, <b>TeamsMMG.work</b>  
+### Leadership & Achievements
+- Co-Founder, <b>TeamsMMG.online</b>  
 - Technical Secretary, <b>Hostel Management Committee, SVNIT</b>  
 - <b>Diploma in Programming</b>, IIT Madras  
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 <p align="left">
   <img alt="Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PARMESHVAR8&show_icons=true&theme=radical" />
   <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARMESHVAR8&layout=compact&theme=radical" />
@@ -102,7 +105,7 @@
 
 ---
 
-### 🤝 Open to Collaborate
+### Open to Collaborate
 If you have exciting ideas in web apps, data tooling, or real-time systems, let’s connect!  
 📧 <a href="mailto:parmeshvar0007@gmail.com">parmeshvar0007@gmail.com</a>
 
